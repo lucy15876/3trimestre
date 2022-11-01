@@ -8,13 +8,13 @@ main {background-color: #86f071;}
 .primeiroparagrafo{
     text-align: justify;
     font-size: 18px;
-    border: black solid 2px; 
+    border: 2px solid black; 
     padding: 10px;
     margin: 10px 40px 80px 15px;}
 .segundoparagrafo{
     text-align: justify;
     font-size: 18px;
-    border: black solid 2px;
+    border: 2px solid black;
      padding: 10px;
      margin: 10px 40px 80px 15px;}
 #logorestaurante {width:2%; height: 2%}
